@@ -1,0 +1,16 @@
+<Invoice>
+  <InvoiceNumber>INV-005</InvoiceNumber>
+  <Date>2024-08-05</Date>
+  <Customer>
+    <Name>Hoang Van E</Name>
+    <Address>202 Đường JKL, Cần Thơ</Address>
+  </Customer>
+  <Items>
+    <Item>
+      <Description>Sản phẩm 5</Description>
+      <Quantity>4</Quantity>
+      <UnitPrice>250000</UnitPrice>
+    </Item>
+  </Items>
+  <TotalAmount>1000000</TotalAmount>
+</Invoice>

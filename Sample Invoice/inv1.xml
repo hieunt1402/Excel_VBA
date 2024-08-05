@@ -1,0 +1,16 @@
+<Invoice>
+  <InvoiceNumber>INV-001</InvoiceNumber>
+  <Date>2024-08-05</Date>
+  <Customer>
+    <Name>Nguyen Van A</Name>
+    <Address>123 Đường ABC, Hà Nội</Address>
+  </Customer>
+  <Items>
+    <Item>
+      <Description>Sản phẩm 1</Description>
+      <Quantity>2</Quantity>
+      <UnitPrice>100000</UnitPrice>
+    </Item>
+  </Items>
+  <TotalAmount>200000</TotalAmount>
+</Invoice>

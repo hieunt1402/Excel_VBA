@@ -1,0 +1,16 @@
+<Invoice>
+  <InvoiceNumber>INV-002</InvoiceNumber>
+  <Date>2024-08-05</Date>
+  <Customer>
+    <Name>Tran Thi B</Name>
+    <Address>456 Đường XYZ, TP. Hồ Chí Minh</Address>
+  </Customer>
+  <Items>
+    <Item>
+      <Description>Sản phẩm 2</Description>
+      <Quantity>1</Quantity>
+      <UnitPrice>500000</UnitPrice>
+    </Item>
+  </Items>
+  <TotalAmount>500000</TotalAmount>
+</Invoice>

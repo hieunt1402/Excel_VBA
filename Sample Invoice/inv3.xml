@@ -1,0 +1,16 @@
+<Invoice>
+  <InvoiceNumber>INV-003</InvoiceNumber>
+  <Date>2024-08-05</Date>
+  <Customer>
+    <Name>Le Van C</Name>
+    <Address>789 Đường DEF, Đà Nẵng</Address>
+  </Customer>
+  <Items>
+    <Item>
+      <Description>Sản phẩm 3</Description>
+      <Quantity>3</Quantity>
+      <UnitPrice>150000</UnitPrice>
+    </Item>
+  </Items>
+  <TotalAmount>450000</TotalAmount>
+</Invoice>

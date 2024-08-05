@@ -1,0 +1,16 @@
+<Invoice>
+  <InvoiceNumber>INV-004</InvoiceNumber>
+  <Date>2024-08-05</Date>
+  <Customer>
+    <Name>Pham Thi D</Name>
+    <Address>101 Đường GHI, Hải Phòng</Address>
+  </Customer>
+  <Items>
+    <Item>
+      <Description>Sản phẩm 4</Description>
+      <Quantity>5</Quantity>
+      <UnitPrice>200000</UnitPrice>
+    </Item>
+  </Items>
+  <TotalAmount>1000000</TotalAmount>
+</Invoice>
